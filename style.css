@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box
+}
+/* body {
+    margin: 0;
+} */
+
+.container {
+    padding: 20px;
+    width: 600px;
+    margin: auto;
+}
+
+h2{
+    position: sticky;
+    top: 0;
+    background:rgb(196, 10, 140);
+    padding: 10px;
+    z-index: 10; 
+    margin-top: 0; 
+}
+
+div p{
+    margin: 15px 0;
+    background-color: rgb(192, 159, 236);
+    font-size: 22px;
+    text-align: justify;
+}
+div{
+    background-color: rgb(214, 214, 212);
+}
